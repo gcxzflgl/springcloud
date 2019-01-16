@@ -1,0 +1,25 @@
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 415 ciObject found
+instanceKlass com/netflix/appinfo/MyDataCenterInfo
+instanceKlass com/netflix/appinfo/DataCenterInfo
+instanceKlass com/fasterxml/classmate/Annotations
+instanceKlass com/fasterxml/classmate/util/MethodKey
+instanceKlass org/hibernate/validator/internal/util/privilegedactions/GetResolvedMemberMethods
+instanceKlass com/fasterxml/classmate/ResolvedTypeWithMembers$AnnotationHandler
+instanceKlass com/fasterxml/classmate/members/ResolvedMember
+instanceKlass com/fasterxml/classmate/AnnotationConfiguration
+instanceKlass com/fasterxml/classmate/ResolvedTypeWithMembers
+instanceKlass com/fasterxml/classmate/members/HierarchicType
+instanceKlass org/hibernate/validator/internal/util/ExecutableHelper$SimpleMethodFilter
+instanceKlass com/fasterxml/classmate/MemberResolver
+instanceKlass com/netflix/discovery/shared/Application
+instanceKlass com/netflix/appinfo/InstanceInfo
+instanceKlass com/netflix/discovery/EurekaEventListener
+instanceKlass com/netflix/appinfo/HealthCheckHandler
+instanceKlass com/netflix/appinfo/HealthCheckCallback
+instanceKlass com/netflix/discovery/shared/Applications
+instanceKlass org/springframework/aop/support/DefaultIntroductionAdvisor
+instanceKlass org/springframework/aop/support/IntroductionInfoSupport
+instanceKlass org/springframework/aop/IntroductionInterceptor
